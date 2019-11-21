@@ -1026,7 +1026,7 @@ section.lazy-placeholder:after {
 }
 .cid-rIaWKAlAOQ {
   padding-top: 75px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background: linear-gradient(45deg, #cc1429, #cc143d);
 }
 @media (min-width: 992px) {
@@ -1046,7 +1046,7 @@ section.lazy-placeholder:after {
 .cid-rIb00mAG93 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 .cid-rIb00mAG93 .media-container-row .mbr-text {
   color: #cc1429;
