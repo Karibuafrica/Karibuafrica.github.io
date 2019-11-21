@@ -1039,8 +1039,15 @@ section.lazy-placeholder:after {
     padding-top: 3rem;
   }
 }
+.cid-rIaWKAlAOQ .mbr-text,
+.cid-rIaWKAlAOQ .mbr-section-btn {
+  color: #c2f716;
+}
 .cid-rIb00mAG93 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-rIb00mAG93 .media-container-row .mbr-text {
+  color: #cc1429;
 }
